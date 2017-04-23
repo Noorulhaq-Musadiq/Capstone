@@ -1,0 +1,80 @@
+| PACKET 1 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 2 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 3 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 4 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 5 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 6 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 7 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 8 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 9 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 10 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 11 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 12 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 13 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 14 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 15 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 16 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 17 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 18 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 19 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 20 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 21 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 22 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 23 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 24 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 25 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 26 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 27 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 28 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 29 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 30 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 31 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 32 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 33 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 34 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 35 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 36 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 37 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 38 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
+| PACKET 39 |,   Source IP: 174.143.213.184 ,   Destination IP: 192.168.1.140 ,   Protocol: TCP ,   Dest MAC: 00:1d:60:b3:01:84 ,   Src MAC: 00:26:62:2f:47:87 ,   IP version: 4,    Source Port: 80,    HTTP service is running,    Destination Port: 57678  ,  TTL: 251 ,   
+
+| PACKET 40 |,   Source IP: 192.168.1.140 ,   Destination IP: 174.143.213.184 ,   Protocol: TCP ,   Dest MAC: 00:26:62:2f:47:87 ,   Src MAC: 00:1d:60:b3:01:84 ,   IP version: 4,    Source Port: 57678,    Destination Port: 80  ,  HTTP service is running,    TTL: 64 ,   
+
